@@ -1,9 +1,10 @@
 from telethon import TelegramClient, events
+import os
 
-API_ID = 12345678
-API_HASH = "your_api_hash"
-SOURCE = -1001234567890
-TARGET = -1001234567891
+API_ID = 39992891
+API_HASH = "f8379d46a5f921ad5040a548cfec0839"
+SOURCE = "futbol_fudbol_sport_tv_gollar"
+TARGET = "jaxon_chemp"
 
 client = TelegramClient('bot', API_ID, API_HASH)
 
